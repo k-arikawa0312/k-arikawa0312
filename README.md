@@ -22,5 +22,4 @@ Webエンジニア志望の学生です。
 
 ## 📫 Contact
 
-- GitHub: https://github.com/k-arikawa0312
 - mail: kosei.arikawa0312@gmail.com
