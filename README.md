@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**k-arikawa0312/k-arikawa0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Kosei Arikawa 👋
 
-Here are some ideas to get you started:
+Webエンジニア志望の学生です。  
+実務で Next.js × TypeScript の開発に携わっています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- TypeScript
+- Next.js / React
+- Tailwind CSS
+- Node.js / NestJS / GraphQL
+- Firebase
+- React Native (Expo)
+
+## 🚀 Featured Repositories
+
+- [devFormFiller](https://github.com/k-arikawa0312/devFormFiller)
+  - フォーム入力テストを効率化するChrome拡張（Manifest V3）
+
+- [MemoApp](https://github.com/k-arikawa0312/MemoApp)
+  - React Native + Firebaseで作成したリアルタイムメモアプリ
+
+## 📫 Contact
+
+- GitHub: https://github.com/k-arikawa0312
+- mail: kosei.arikawa0312@gmail.com
