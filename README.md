@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi, I'm Kosei Arikawa 👋
+## Hi, I'm Kosei Arikawa 👋
 
 Webエンジニア志望の学生です。  
 実務で Next.js × TypeScript の開発に携わっています。
