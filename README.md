@@ -14,11 +14,11 @@ Webエンジニア志望の学生です。
 
 ## 🚀 Featured Repositories
 
-- [devFormFiller](https://github.com/k-arikawa0312/devFormFiller)
-  - フォーム入力テストを効率化するChrome拡張（Manifest V3）
+  [devFormFiller](https://github.com/k-arikawa0312/devFormFiller)
+  - 開発中のフォーム入力テストをワンクリックで自動化するChrome拡張機能（Manifest V3） [![Available in the Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Available-blue?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/devformfiller/nbkibginlhnjleihfbempgopodoledbc)
 
-- [MemoApp](https://github.com/k-arikawa0312/MemoApp)
-  - React Native + Firebaseで作成したリアルタイムメモアプリ
+  [MemoApp](https://github.com/k-arikawa0312/MemoApp)
+  - React Native + Firebaseで作成したリアルタイムメモアプリ。
 
 ## 📫 Contact
 
